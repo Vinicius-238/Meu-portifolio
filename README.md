@@ -6,5 +6,3 @@ Esse Portifolio, consiste na pratica minhas habilidades e algumas dos projetos c
 -HTML
 -CSS
 -JavaScript
-
-## Como rodar o projeto
